@@ -8,8 +8,8 @@
 
 ## 🛠️ Skills & Expertise
 ### Programming Languages
-![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=000000&color=ffdf00)
 ![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2e79c7)
+![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=000000&color=ffdf00)
 ![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=02599c)
 
 ### Frameworks
