@@ -34,7 +34,7 @@
 - Expertise in setting up multiple environments (development, staging, production).
 
 ## 🌟 Professional Competencies
-- Agile methodology
+- Agile/Scrum methodology
 - Teamwork and Collaboration
 - Continuous Learning and Adaptability
 - Problem-Solving and Innovation
