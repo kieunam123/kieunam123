@@ -48,11 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        17 hrs 37 mins  ███████████████████████▓░   94.33 %
-JavaScript        51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-JSON              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Java Properties   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Groovy            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+TypeScript        15 hrs 12 mins  ███████████████████████▒░   93.37 %
+JavaScript        51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+JSON              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Java Properties   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Groovy            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
