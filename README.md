@@ -48,9 +48,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 19 mins   ██████████████████████▒░░   89.36 %
-Groovy       23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript   56 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
