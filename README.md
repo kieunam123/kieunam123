@@ -48,9 +48,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 5 mins    ████████████████████████▓   98.12 %
-Java         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript   3 hrs 6 mins    ███████████████████████░░   92.26 %
+Java         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Groovy       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
